@@ -1,6 +1,5 @@
 #include "cetcd.h"
 #include "cetcd_json_parser.h"
-
 #include <string.h>
 #include <stdlib.h>
 #include <stdint.h>
